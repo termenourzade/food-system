@@ -1,4 +1,5 @@
 use food_system;
+
 create table users (
     id int primary key auto_increment,
     first_name nvarchar(50) not null,

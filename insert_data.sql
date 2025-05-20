@@ -1,4 +1,5 @@
 use food_system;
+
 insert into users(first_name, last_name, national_id)
 values('ّپرتو' , 'رادان', '0548987422');
 insert into users(first_name, last_name, national_id)
